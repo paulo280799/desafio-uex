@@ -63,6 +63,7 @@ Envia um email com um token para redefinição de senha ao informar:
 Redefine a senha de um usuário ao informar:
 - **email** (string, obrigatório)
 - **password** (string, obrigatório)
+- **password_confirmation** (string, obrigatório)
 - **token** (string, obrigatório, enviado por email)
 
 #### Logout
